@@ -1,1 +1,10 @@
+Project Highlights:
+◼ Volume of Stock Traded: Analyzed the trading volume to understand market activity and investor interest in Netflix.
+◼ Netflix Stock Price Analysis: Examined key stock price metrics, including high, close, and open prices.
+◼ Time-Series Analysis: Conducted a detailed analysis of Netflix stock prices on a daily, monthly, and yearly basis to identify trends and patterns.
+◼Extreme Values Identification:
+                  ◾ Dates with Highest Stock Price: Identified the dates when Netflix stock hit its highest values, providing context on the events driving these peaks.
+                  ◾ Dates with Lowest Stock Price: Found the dates with the lowest stock prices, analyzing the factors that led to these dips.
 
+📊 Tools & Technologies Used:
+◼ Python Libraries: pandas for data manipulation, matplotlib and seaborn for visualization, and numpy for numerical operations.
